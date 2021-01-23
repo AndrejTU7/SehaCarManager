@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name" translatable="false">SEHA Car Manager</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="rides">Rides</string>
+    <string name="cars">Cars</string>
+    <string name="drivers">Drivers</string>
+    <string name="vip_guests">VIP guests</string>
+    <string name="chat">Chat</string>
+    <string name="logout">Logout</string>
+    <string name="administrator">Administrator</string>
+    <string name="moderator">Moderator</string>
+    <string name="driver">Driver</string>
+    <string name="locations">Locations</string>
+    <string name="administrators">Administrators</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_new_car">Add new car</string>
+    <string name="registration_plates">Registration plates</string>
+    <string name="name_of_the_car">Name of the car</string>
+    <string name="car_name_empty">Car name can\'t be empty</string>
+    <string name="car_added">Car added</string>
+    <string name="edit_car">Edit car</string>
+    <string name="car_edited">Car updated</string>
+    <string name="car_deleted">Car deleted</string>
+    <string name="delete">Delete</string>
+    <string name="save_changes">Save changes</string>
+    <string name="enter_new_location">Enter your location</string>
+    <string name="add_your_location">Add your location</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="error_valid_email">Enter valid email</string>
+    <string name="password_reset_ok">Check your email for new password</string>
+    <string name="create_new_driver">Create new driver</string>
+    <string name="name">Name</string>
+    <string name="password_again">Type password again</string>
+    <string name="driver_referee">Referee driver</string>
+    <string name="edit_location">Edit location</string>
+    <string name="location_name_empty">Location adress can\'t be empty</string>
+    <string name="location_edited">Location updated</string>
+    <string name="location_added">Location added</string>
+    <string name="create_new_admin">Create new Admin</string>
+    <string name="select_pic">Select Picture</string>
+    <string name="name_empty">Name cannot be empty</string>
+    <string name="password_short">Password is too short</string>
+    <string name="password_not_same">Password don\'t match</string>
+    <string name="address">Address</string>
+    <string name="location_deleted">Location deleted</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="select_contact">Select contact</string>
+
+
+</resources>
